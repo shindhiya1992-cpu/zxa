@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 alien is cominmg
 =======
 what are you upto
 >>>>>>> dev
+=======
+alien is cominmg mainly
+>>>>>>> e2b77495abaaa8939af01e00b1084c1cf03b6ea0
